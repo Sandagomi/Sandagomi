@@ -5,4 +5,5 @@
         I look forward to bringing my unique vision and analytical skills to the organisations and to the teams.
 - 📫 How to reach me >> please drop an email to "sandagomi.v.i@gmail.com"
 
-
+## Snake eating my contribution
+![snake gif](https://github.com/sandagomi/sandagomi/blob/output/github-contribution-grid-snake.gif)
