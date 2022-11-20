@@ -1,4 +1,4 @@
-<h>👋 Hey I’m @Sandagomi </h>
+# *Hey I’m @Sandagomi* 👋 
 
 ## Bio
 <p>👀  I’m A passionate individual who has an undying excitement for the IT industry. 
