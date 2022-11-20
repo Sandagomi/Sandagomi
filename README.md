@@ -7,7 +7,8 @@
         I look forward to bringing my unique vision and analytical skills to the organisations and to the teams. <p/>
         
 ## *Reach me* 📫
-<p> please drop an email to "sandagomi.v.i@gmail.com" </p>
+<p> Email    - sandagomi.v.i@gmail.com</p>
+<p> LinkedIn - www.linkedin.com/in/sandagomi-vihanga-induwara/</p>
 
 
 
