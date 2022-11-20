@@ -1,4 +1,4 @@
-##👋 Hey I’m @Sandagomi
+<h>👋 Hey I’m @Sandagomi </h>
 
 ## Bio
 <p>👀  I’m A passionate individual who has an undying excitement for the IT industry. 
@@ -7,7 +7,7 @@
         I look forward to bringing my unique vision and analytical skills to the organisations and to the teams. <p/>
         
 ## Reach me
-        📫 please drop an email to "sandagomi.v.i@gmail.com"
+<p>📫 please drop an email to "sandagomi.v.i@gmail.com" </p>
 
 
 ## Snake eating my contribution
