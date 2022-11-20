@@ -12,5 +12,5 @@
 
 
 
-## Snake eating my contribution
+## *Enjoy your stay!*
 ![snake gif](https://github.com/sandagomi/sandagomi/blob/output/github-contribution-grid-snake.gif)
